@@ -1,2 +1,2 @@
 # Python_Bootcamp
-Documenting the python learning
+Documenting my journey the python learning
